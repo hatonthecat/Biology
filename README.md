@@ -9,6 +9,8 @@ https://en.wikipedia.org/wiki/Freeman_Dyson
 
 It's true that in order to be considered an expert, one typically has to have worked in a field for a number of years. Yet, generalists are a rarer breed, and, are just as resourceful at "solving" or "working" on academic problems/issues than those in highly specialized fields. In fact, while many question the value of tenure in a world where industry dominates the employment sector, a defense of tenured generalists should gain new support, should academia seek to remain relevant and maintain its "editorial independence" on the direction of applied sciences.
 
+While peer-reviewed research papers in academia do now typically include disclaimers on whether any of the researchers claim a conflict of interest, there remains a strong influence of corporate-funded research in higher education, which results in a very uncritical, pro-industry academic track for many scientific degrees. In fact, some degrees appear to be no more than a conveyor belt for positions for dense IP trolls and non-practicing patent entities (NPEs).
+
 https://blogs.scientificamerican.com/observations/advice-for-young-scientists-be-a-generalist/
 
 If one were to follow the trajectory of the brain drain after the Manhattan Project, one can see that the physicists who did not want to develop weapons of war, left to study Biology in the late 1940s- early 60s (e.g. Pasteur Institute) after Hershey and Chase's experiment on DNA. Other scientists later went on to develop the internet. 
