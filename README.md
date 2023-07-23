@@ -9,9 +9,18 @@ https://en.wikipedia.org/wiki/Freeman_Dyson
 
 It's true that in order to be considered an expert, one typically has to have worked in a field for a number of years. Yet, generalists are a rarer breed, and, are just as resourceful at "solving" or "working" on academic problems/issues than those in highly specialized fields. In fact, while many question the value of tenure in a world where industry dominates the employment sector, a defense of tenured generalists should gain new support, should academia seek to remain relevant and maintain its "editorial independence" on the direction of applied sciences.
 
-While peer-reviewed research papers in academia do now typically include disclaimers on whether any of the researchers claim a conflict of interest, there remains a strong influence of corporate-funded research in higher education, which results in a very uncritical, pro-industry academic track for many scientific degrees. In fact, some degrees appear to be no more than a conveyor belt for positions for dense IP trolls and non-practicing patent entities (NPEs).
+"Although adaptation to changing circumstances is easier with a diverse knowledge base,
+“Renaissance people” or polymaths are rare, because specialization is rewarded more
+generously in the short term. By crediting focused accomplishments, the existing reward
+system of grants, awards and promotions creates silos of knowledge with suppressed cross
+fertilization. This unfortunate backdrop only highlights the essential role played by
+generalists. Those who cross boundaries of disciplines act as butterflies that pollinate flowers
+unintentionally by carrying pollen stuck to their bellies. Occasional random winds can
+accomplish the same outcome but with a reduced efficiency and vigor."
 
-https://blogs.scientificamerican.com/observations/advice-for-young-scientists-be-a-generalist/
+from: https://blogs.scientificamerican.com/observations/advice-for-young-scientists-be-a-generalist/
+
+While peer-reviewed research papers in academia do now typically include disclaimers on whether any of the researchers claim a conflict of interest, there remains a strong influence of corporate-funded research in higher education, which results in a very uncritical, pro-industry academic track for many scientific degrees. In fact, some degrees appear to be no more than a conveyor belt for positions for dense IP trolls and non-practicing patent entities (NPEs).
 
 If one were to follow the trajectory of the brain drain after the Manhattan Project, one can see that the physicists who did not want to develop weapons of war, left to study Biology in the late 1940s- early 60s (e.g. Pasteur Institute) after Hershey and Chase's experiment on DNA. Other scientists later went on to develop the internet. 
 
