@@ -24,7 +24,7 @@ While peer-reviewed research papers in academia do now typically include disclai
 
 If one were to follow the trajectory of the brain drain after the Manhattan Project, one can see that the physicists who did not want to develop weapons of war, left to study Biology in the late 1940s- early 60s (e.g. Pasteur Institute) after Hershey and Chase's experiment on DNA. Other scientists later went on to develop the internet. 
 
-With the popularity of the Christopher Nolan film, Oppenheimer, being released this weekend, I have been reading some memoranda from other post-WWII periods that underscore the dangers of nuclear warfare: https://ia800101.us.archive.org/10/items/The1958TaiwanStraitsCrisisADocumentedHistory_201712/1958-Taiwan-Straits-Crisis-Halperin_text.pdf
+With the popularity of the Christopher Nolan film, Oppenheimer, being released this weekend, I have been reading some memoranda from other post-WWII periods that underscore the dangers of nuclear warfare: https://archive.org/details/The1958TaiwanStraitsCrisisADocumentedHistory_201712
 
 Abridged supplement (not a substitute): https://www.rand.org/pubs/research_memoranda/RM4900.html (Some margins are more legible in this version, even though it is missing 46+ pages)
 
