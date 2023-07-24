@@ -26,6 +26,8 @@ If one were to follow the trajectory of the brain drain after the Manhattan Proj
 
 With the popularity of the Christopher Nolan film, Oppenheimer, being released this weekend, I have been reading some memoranda from other post-WWII periods that underscore the dangers of nuclear warfare: https://ia800101.us.archive.org/10/items/The1958TaiwanStraitsCrisisADocumentedHistory_201712/1958-Taiwan-Straits-Crisis-Halperin_text.pdf
 
+Abridged supplement (not a substitute): https://www.rand.org/pubs/research_memoranda/RM4900.html (Some margins are more legible in this version, even though it is missing 46+ pages)
+
 While not as publicized as the Cuban Missile Crisis, the 1958 Taiwan Straits crisis details (and posted by the late Daniel Ellsberg in 2021) the near-miscalculations of Chinese Communist and Chinese Nationalist forces in the vicinity of present-day Kinmen islands. 
 
 https://www.nytimes.com/2021/05/22/us/politics/nuclear-war-risk-1958-us-china.html
