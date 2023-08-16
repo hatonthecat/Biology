@@ -1,6 +1,9 @@
 # Biology
 Miscellaneous bio blog posts
 
+A Tale of Woese, 1998  https://www.scribd.com/document/16300262/A-Tale-of-Woese
+
+"All the junk written about Beethoven's irascible personality does not add at all to the appreciation of his music."
 
 "Dyson won numerous scientific awards, but never a Nobel Prize. Nobel physics laureate Steven Weinberg said that the Nobel committee "fleeced" Dyson, but Dyson remarked in 2009, "I think it's almost true without exception if you want to win a Nobel Prize, you should have a long attention span, get hold of some deep and important problem and stay with it for ten years. That wasn't my style."[11]'
 
