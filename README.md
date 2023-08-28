@@ -34,3 +34,9 @@ Abridged supplement (not a substitute): https://www.rand.org/pubs/research_memor
 While not as publicized as the Cuban Missile Crisis, the 1958 Taiwan Straits crisis details (and posted by the late Daniel Ellsberg in 2021) the near-miscalculations of Chinese Communist and Chinese Nationalist forces in the vicinity of present-day Kinmen islands. 
 
 https://www.nytimes.com/2021/05/22/us/politics/nuclear-war-risk-1958-us-china.html
+
+--
+
+Michelineous story of the Weird
+----
+https://www.thefactsite.com/charles-darwin-eating-habits/  
