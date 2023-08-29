@@ -5,6 +5,10 @@ A Tale of Woese, 1998  https://www.scribd.com/document/16300262/A-Tale-of-Woese
 
 "All the junk written about Beethoven's irascible personality does not add at all to the appreciation of his music."
 
+"Woese says part of the skeptical stance to the 1977 report could be traced back to classical microbiology's quiet divorce from the decade's evolutionary thinking. “There was a disconnect between Darwinists, who had taken over evolution, and microbiologists, who had no use for Darwinian natural selection,” he says. To make matters worse, molecular biology's application-oriented approach, he adds, smothered evolutionary considerations of life. “There was a tacit agreement between evolutionists and molecular biologists—en entente curieuse—that neither group would criticize the other.” Add to these reasons microbiologists’ reluctance to abandon the existing classification of life into eukaryotes and prokaryotes, and Woese's phylogenetic classification met with widespread resistance. “By then, the concept of prokaryotes had become firmly entrenched. When the phylogenetic classification was proposed, it was as if a crutch had been taken away,” he recalls."
+
+https://www.pnas.org/doi/10.1073/pnas.1120749109
+
 "Dyson won numerous scientific awards, but never a Nobel Prize. Nobel physics laureate Steven Weinberg said that the Nobel committee "fleeced" Dyson, but Dyson remarked in 2009, "I think it's almost true without exception if you want to win a Nobel Prize, you should have a long attention span, get hold of some deep and important problem and stay with it for ten years. That wasn't my style."[11]'
 
 [11] https://www.nytimes.com/2009/03/29/magazine/29Dyson-t.html
