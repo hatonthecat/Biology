@@ -14,7 +14,7 @@ These papers were very interesting then. I remember Carl Woese mentioning the po
 
 postscript: Life really is physics in a way that requires focus on the physical aspects of nature. But on a day to day basis, this fact is not simply grasped or known.
 
-1987: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC373105/pdf/microrev00049-0051.pdf Woese wrote a 51 page paper on Bacterial Evolution, and was aware of the missing connection that microbes had to the modern genetic code. I haven't read the entire paper, but the first page already resembles his later treatises in the mid 2000s.
+1987: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC373105/pdf/microrev00049-0051.pdf Woese wrote a 51 page paper on Bacterial Evolution, and was aware of the missing connection that microbes had to the modern genetic code (addition: IN the mainstream Molecular Biology consensus). I haven't read the entire paper, but the first page already resembles his later treatises in the mid 2000s.
 
 ---
 
