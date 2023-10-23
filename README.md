@@ -1,4 +1,19 @@
 # Biology
+
+10/23/2023
+
+After randomly browsing some articles, I came across this reecnt Nature paper published around 3 weeks ago: https://www.nature.com/articles/s41586-023-06600-9 It is one of those "theory of everything" papers, but applied to Biology, rather than the physics portrayed on the History Channel (just outer space and "Aliens"). The paper goes further than many in that, it adds a convenient layer of abstraction by, "redefnes the concept of an ‘object’ on which these laws act." This is to help understand some of the early forces of physics that led to the first biochemistry, rather than add a layer of abstraction for arbitrary or obfuscatory purposes. The rebuttal in one of the comments by Sara Walker, is phenomenal.
+
+In Between 2006 and 2010, Carl Woese and Nigel Goldenfeld collaborated on some papers that discussed evolution as a physical phenomena: 
+
+https://arxiv.org/pdf/1011.4125.pdf "Life is physics: evolution as a collective phenomenon far from equilibrium" (2010)
+
+https://arxiv.org/pdf/0712.3332.pdf "Extreme genetic code optimality from a molecular dynamics calculation of amino acid polar requirement" (2008)
+
+These papers were very interesting then. I remember Carl Woese mentioning the polar requirement in class in 2006 and his research that he was working on at the time.
+
+---
+
 Miscellaneous bio blog posts
 
 A Tale of Woese, 1998  https://www.scribd.com/document/16300262/A-Tale-of-Woese
