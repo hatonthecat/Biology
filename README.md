@@ -12,6 +12,8 @@ https://arxiv.org/pdf/0712.3332.pdf "Extreme genetic code optimality from a mole
 
 These papers were very interesting then. I remember Carl Woese mentioning the polar requirement in class in 2006 and his research that he was working on at the time.
 
+In a lot of ways, I have been waiting for a paper like this. A paper that causes so much controversy is sure to reveal certain assumptions about biology that have less testable hypotheses, but are nonetheless valid hypotheses that have not garnered significant consideration. More opportune would be that this discovery is from an adjacent epoch, allowing a "missing link" to be made of evolutionary timeframe. More likely than not, some analytical methods can lead to not so coincidental deductions that place a discovery adjacent another. In other words, the pre-ribosomal era may have existed billions of years ago, but an era not so distant before that could also be deduced based on mathematical modeling of pre-cursor molecules, that, while not resembling universal amino acids or ribosomal RNA, could still retain a universal biochemical mechanism that the early geologic era's atmosphere did not preclude.
+
 postscript: Life really is physics in a way that requires focus on the physical aspects of nature. But on a day to day basis, this fact is not simply grasped or known.
 
 1987: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC373105/pdf/microrev00049-0051.pdf Woese wrote a 51 page paper on Bacterial Evolution, and was aware of the missing connection that microbes had to the modern genetic code (addition: In the MAINSTREAM Molecular Biology "consensus"). I haven't read the entire paper, but the first page already resembles his later treatises in the mid 2000s.
