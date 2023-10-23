@@ -12,6 +12,8 @@ https://arxiv.org/pdf/0712.3332.pdf "Extreme genetic code optimality from a mole
 
 These papers were very interesting then. I remember Carl Woese mentioning the polar requirement in class in 2006 and his research that he was working on at the time.
 
+postscript: Life really is physics in a way that requires focus on the physical aspects of nature. But on a day to day basis, this fact is not simply grasped or known.
+
 ---
 
 Miscellaneous bio blog posts
