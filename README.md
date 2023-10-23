@@ -16,7 +16,14 @@ In a lot of ways, I have been waiting for a paper like this. It suggests a paper
 
 ![image](https://github.com/hatonthecat/Biology/assets/76194453/0fd259c6-7bf5-4d43-a2fa-1d493678abef)
 
-A paper that causes so much [controversy](https://manlius.substack.com/p/whats-going-on-with-assembly-theory) is sure to reveal certain assumptions about biology that have less testable hypotheses, but are nonetheless valid hypotheses that have not garnered significant consideration. More opportune would be that this discovery is from an adjacent epoch, allowing a "missing link" to be made of evolutionary timeframe. More likely than not, some analytical methods can lead to not-so-coincidental deductions that place a discovery adjacent another. In other words, the pre-ribosomal era may have existed billions of years ago, but an era not so distant before that could also be deduced based on mathematical modeling of pre-cursor molecules, that, while not resembling universal amino acids or ribosomal RNA, could still retain a universal biochemical mechanism that the early geologic era's atmosphere did not preclude.
+A paper that causes so much [controversy](https://manlius.substack.com/p/whats-going-on-with-assembly-theory) is sure to reveal certain assumptions about biology that have less testable hypotheses[Edit: I used the phrase "less testable" because I did not know whether the Assembly Theory (AT) paper used methods that can be experimentally tested outside of mathematical modeling; e.g. 
+
+"An object that exists in multiple copies allows the signatures describing the set
+of constraints that built it to be measured experimentally. For example, 
+mass spectrometry can be used to measure assembly for molecules,
+because it can measure how molecules are built by making bonds." )
+
+, but are nonetheless valid hypotheses that have not garnered significant consideration. More opportune would be that this discovery is from an adjacent epoch, allowing a "missing link" to be made of evolutionary timeframe. More likely than not, some analytical methods can lead to not-so-coincidental deductions that place a discovery adjacent another. In other words, the pre-ribosomal era may have existed billions of years ago, but an era not so distant before that could also be deduced based on mathematical modeling of pre-cursor molecules, that, while not resembling universal amino acids or ribosomal RNA, could still retain a universal biochemical mechanism that the early geologic era's atmosphere did not preclude.
 
 postscript: Life really is physics in a way that requires focus on the physical aspects of nature. But on a day to day basis, this fact is not simply grasped or known.
 
