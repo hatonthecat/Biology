@@ -4,6 +4,18 @@
 
 I recall reading in a few articles that Dr. Woese recommended Evolution be taught after advanced Math- in college, and not in high school. The reasoning for this is that Biological Evolution as understood from its early formation, before the DNA polymerase, before the RNA polymerase, requires a mathematical formula(s) to trace historical markers. My conversation with Dr. (Stephen) Farrand during an impromptu office hour visit inquiring of graduate school pre-requisites also confirmed this- that you need to know math. It's not the answer one wants to hear, but the answer one needs to hear. Thus any reference to later stage aspects of evolution, such as genetic selection, are referring to an era far later than what scientists seeking a pre-biotic unification theory between physics, chemistry and biology are trying to elucidate. While physical laws may have carried over, the information storage mechanisms might not all have. It reminds me of a conversation E.O. Wilson had on the relationship between evangelists and evolutionists: there is not a constructive dialogue that can be mixed to derive any meaningful frameworks for any phase in evolution. One cannot imply intelligent design in any era of life's formation (separate from what is called a "physical forward dynamic process" because all of ribosomal evolution (16S rRNA) preceded neurodevelopmental (eukaryotic) development. Thus whenever I see these arguments, I realize the eras being discussed are many, many lightyears apart. I'm not very strong in the math department, so I realize even I have my limits at comprehending some models. Though I sometimes get motivated to learn some new math. 
 
+Some papers: https://guava.physics.uiuc.edu/~nigel/courses/569/Essays_Spring2006/files/Butler1.pdf "Horizontal Gene Transfer and the Emergence of Darwinian Evolution" (05/2006)
+
+p.8:
+![image](https://github.com/hatonthecat/Biology/assets/76194453/48b87680-58ba-40a2-bdb9-6c0f44d8adfd)
+
+Optimality Properties of a Proposed Precursor to the Genetic Code  https://arxiv.org/pdf/0905.2932.pdf 5/2009
+
+p.2 
+
+![image](https://github.com/hatonthecat/Biology/assets/76194453/7bcd6d6f-3ab2-44aa-b298-efb9a237072a)
+
+
 10/23/2023
 
 After ~~randomly~~ browsing* some articles, I came across this reecnt Nature paper published around 3 weeks ago: https://www.nature.com/articles/s41586-023-06600-9 It is [Edit: [NOT](https://manlius.substack.com/p/whats-going-on-with-assembly-theory)^1] one of those "theory of everything" papers, but applied to Biology, rather than the physics portrayed on the History Channel (just outer space and "Aliens"). The paper goes further than many in that, it adds a convenient layer of abstraction by, "redefines the concept of an ‘object’ on which these laws act." This is to help understand some of the early forces of physics that led to the first biochemistry, rather than add a layer of abstraction for arbitrary or obfuscatory purposes. This is done by making fewer assumptions about what kinds of chemical bonds led to the original precursors. Bonds themselves as those "objects" make even fewer assumptions than the atoms that may be modeled in an experiment. The rebuttal in one of the comments by Sara Walker, is phenomenal.
