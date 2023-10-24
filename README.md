@@ -9,7 +9,7 @@ Some papers: https://guava.physics.uiuc.edu/~nigel/courses/569/Essays_Spring2006
 p.8:
 ![image](https://github.com/hatonthecat/Biology/assets/76194453/48b87680-58ba-40a2-bdb9-6c0f44d8adfd)
 
-Optimality Properties of a Proposed Precursor to the Genetic Code  https://arxiv.org/pdf/0905.2932.pdf 5/2009
+"Optimality Properties of a Proposed Precursor to the Genetic Code"  https://arxiv.org/pdf/0905.2932.pdf (5/2009)
 
 p.2 
 
