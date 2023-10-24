@@ -6,6 +6,8 @@ After ~~randomly~~ browsing* some articles, I came across this reecnt Nature pap
 
 ^1 "Despite the media marketing on this matter, it is not a theory of everything and it cannot be because of its focused design: establish to which extent a product (like a complex molecule) is the result of evolutionary forces." 
 
+Supplemental Information: https://static-content.springer.com/esm/art%3A10.1038%2Fs41586-023-06600-9/MediaObjects/41586_2023_6600_MOESM1_ESM.pdf
+
 """The purpose of abstraction is not to be vague, but to create a new semantic level in which one can be absolutely precise"—Edsger Dijkstra" from https://c4.santafe.edu/ 
 
 It appears that Evolution borrowed a concept from Computer Science, which borrowed from Evolution. This was the type of abstraction I was thinking about when I referred to extra "layer," but nonetheless facilitates the discussion on irreducible components during symmetry breaking and making (chemical bonds, but can refer to other objects as well).
