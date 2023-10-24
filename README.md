@@ -32,7 +32,7 @@ because it can measure how molecules are built by making bonds." )
 There may have been five evolutionary epochs (not geological epochs). There may be seven epochs. Or seventy. Some of these epochs may have been much shorter than others. Some amount of punctuated*** equilibrium must have occured, and some phases could have happened within a day (not metaphorically referring to years or millenia). But it's very possible that between early atoms** (Hydrogen, Helium and so on,- a grad student TA once said that some astronomers studying the early universe only study H and He, for the most part) and the later universe that led to carbon-based life comprised of a number of epochs, are a number of phases that cannot be experimentally deduced (+deduced and abductively hypothesized) from the early Big Bang, but by working backwards from the Ribosome.
 
 *** The AT paper cites in #10 Biblio: "Elena, S. F., Cooper, V. S. & Lenski, R. E. Punctuated evolution caused by selection of rare
-beneficial mutations. Science 272, 1802–1804 (1996)" [check relationship b/t Gould] 
+beneficial mutations. Science 272, 1802–1804 (1996)" [check relationship b/t [Gould](https://en.wikipedia.org/wiki/Punctuated_equilibrium)] 
 
 postscript: Life really is physics in a way that requires focus on the physical aspects of nature. But on a day to day basis, this fact is not simply grasped or known.
 
