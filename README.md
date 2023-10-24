@@ -36,6 +36,7 @@ postscript: Life really is physics in a way that requires focus on the physical 
 
 ** ![image](https://github.com/hatonthecat/Biology/assets/76194453/a7757847-bdde-410d-acd2-a1b31cca683c)
 
+(this image should be a demonstration of why Chat-GPT can't be trusted)
   
 ---
 
