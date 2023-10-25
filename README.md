@@ -32,6 +32,15 @@ In Between 2006 and 2010, Carl Woese and Nigel Goldenfeld collaborated on some p
 
 https://arxiv.org/pdf/1011.4125.pdf "Life is physics: evolution as a collective phenomenon far from equilibrium" (2010)
 
+p.5: "Implicit in this approach is the assumption that the
+evolutionary time-scale is different from the time-scale
+of the ecosystem. The crucial question of the timescale
+of the evolutionary process, even taking at face value the
+perspective of the modern synthesis (which we do not) remains a thorny issue[61], and indeed it is fair to say that
+the theory’s conceptual framework is so poorly quantified
+that one cannot confidently make sensible and realistic
+estimates of timescales (for an excellent pedagogical discussion of this point, see [62])." 
+
 https://arxiv.org/pdf/0712.3332.pdf "Extreme genetic code optimality from a molecular dynamics calculation of amino acid polar requirement" (2008)
 
 These papers were very interesting then. I remember Carl Woese mentioning the polar requirement in class in 2006 and his research that he was working on at the time.
