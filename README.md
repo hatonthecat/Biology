@@ -1,5 +1,16 @@
 # Biology
 
+10/25/2023
+
+When visiting a mall, those maps that show "You are Here" are quite informative:
+
+![pngegg](https://github.com/hatonthecat/Biology/assets/76194453/39f715fa-e0e4-4341-83ce-b06bcfaea777)
+
+
+![image](https://github.com/hatonthecat/Biology/assets/76194453/9703271a-a3f4-4870-aa6f-8d556dd734f1)
+
+
+
 10/24/2023
 
 I recall reading in a few articles that Dr. Woese recommended Evolution be taught after advanced Math- in college, and not in high school. The reasoning for this is that Biological Evolution as understood from its early formation, before the DNA polymerase, before the RNA polymerase, requires a mathematical formula(s) to trace historical markers. My conversation with Dr. (Stephen) Farrand during an impromptu office hour visit inquiring of graduate school pre-requisites also confirmed this- that you need to know math. It's not the answer one wants to hear, but the answer one needs to hear. Thus any reference to later stage aspects of evolution, such as genetic selection, are referring to an era far later than what scientists seeking a pre-biotic unification theory between physics, chemistry and biology are trying to elucidate. While physical laws may have carried over, the information storage mechanisms might not all have. It reminds me of a conversation E.O. Wilson had on the relationship between evangelists and evolutionists: there is not a constructive dialogue that can be mixed to derive any meaningful frameworks for any phase in evolution. One cannot imply intelligent design in any era of life's formation (separate from what is called a "physical forward dynamic process" because all of ribosomal evolution (16S rRNA) preceded neurodevelopmental (eukaryotic) development. Thus whenever I see these arguments, I realize the eras being discussed are many, many lightyears apart. I'm not very strong in the math department, so I realize even I have my limits at comprehending some models. Though I sometimes get motivated to learn some new math. 
