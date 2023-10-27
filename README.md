@@ -69,7 +69,7 @@ He also first wrote about the polar requirement way back in 1965-66 while many w
 ![image](https://github.com/hatonthecat/Biology/assets/76194453/ced67a85-7a6e-4821-ac75-30e416302340)
 
 
-In one of those  papers, he references the phrase "statistical protein." This concept is very similar to the "combinatorial" aspects of Assembly Theory, and assembly theory may be most applicable to a pre-Darwinian phase or threshold. There is also mention of chirality, which in chemistry differentiates between cellulose and sucrose (and why humans don't have enzymes to digest tree bark)
+In one of those  papers, he references the phrase "statistical protein." This concept is very similar to the "combinatorial" aspects of Assembly Theory, and assembly theory may be most applicable to a pre-Darwinian phase or threshold. There is also mention of chirality, which in [chemistry](https://en.wikipedia.org/wiki/Chirality#Chemistry) differentiates between non-superimposable molecules.
 
 In a lot of ways, I have been waiting for a paper like this. It suggests a paper that was ahead of its time is just starting to get noticed in its relevance to discoveries that hint to a chronological continuum. Woese refers to the cell (and by that logic, DNA) as a "historical document":
 
