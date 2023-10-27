@@ -64,6 +64,9 @@ These papers were very interesting then. I remember Carl Woese mentioning the po
 
 He also first wrote about the polar requirement way back in 1965-66 while many were deciphering the codon table (including the likes of Francis Crick): https://youtu.be/6KUazEyqGbo?t=2526
 
+![image](https://github.com/hatonthecat/Biology/assets/76194453/ced67a85-7a6e-4821-ac75-30e416302340)
+
+
 In one of those  papers, he references the phrase "statistical protein." This concept is very similar to the "combinatorial" aspects of Assembly Theory, and assembly theory may be most applicable to a pre-Darwinian phase or threshold. There is also mention of chirality, which in chemistry differentiates between cellulose and sucrose (and why humans don't have enzymes to digest tree bark)
 
 In a lot of ways, I have been waiting for a paper like this. It suggests a paper that was ahead of its time is just starting to get noticed in its relevance to discoveries that hint to a chronological continuum. Woese refers to the cell (and by that logic, DNA) as a "historical document":
