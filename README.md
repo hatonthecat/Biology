@@ -62,6 +62,10 @@ https://arxiv.org/pdf/q-bio/0605036.pdf "Collective evolution and the genetic co
 
 These papers were very interesting then. I remember Carl Woese mentioning the polar requirement in class in 2006 and his research that he was working on at the time.
 
+He also first wrote about the polar requirement way back in 1965-66 while many were deciphering the codon table (including the likes of Francis Crick): https://youtu.be/6KUazEyqGbo?t=2526
+
+In one of those  papers, he references the phrase "statistical protein." This concept is very similar to the "combinatorial" aspects of Assembly Theory, and assembly theory may be most applicable to a pre-Darwinian phase or threshold. There is also mention of chirality, which in chemistry differentiates between cellulose and sucrose (and why humans don't have enzymes to digest tree bark)
+
 In a lot of ways, I have been waiting for a paper like this. It suggests a paper that was ahead of its time is just starting to get noticed in its relevance to discoveries that hint to a chronological continuum. Woese refers to the cell (and by that logic, DNA) as a "historical document":
 
 ![image](https://github.com/hatonthecat/Biology/assets/76194453/0fd259c6-7bf5-4d43-a2fa-1d493678abef)
