@@ -58,6 +58,8 @@ estimates of timescales (for an excellent pedagogical discussion of this point, 
 
 https://arxiv.org/pdf/0712.3332.pdf "Extreme genetic code optimality from a molecular dynamics calculation of amino acid polar requirement" (2008)
 
+https://arxiv.org/pdf/q-bio/0605036.pdf "Collective evolution and the genetic code"
+
 These papers were very interesting then. I remember Carl Woese mentioning the polar requirement in class in 2006 and his research that he was working on at the time.
 
 In a lot of ways, I have been waiting for a paper like this. It suggests a paper that was ahead of its time is just starting to get noticed in its relevance to discoveries that hint to a chronological continuum. Woese refers to the cell (and by that logic, DNA) as a "historical document":
