@@ -8,7 +8,7 @@ From A New Biology for a New Century (2004, link below)
 
 That doesn't sound like doctrine to me! Darwin was merely speculating about ultimate origins—a great gap in our knowledge and something to be defined and resolved when the time came. For Darwin, common descent was an open question, an invitation to discussion. What elevated common descent to doctrinal status almost certainly was the much later discovery of the universality of biochemistry, which was seemingly impossible to explain otherwise (49). But that was before horizontal gene transfer (HGT), which could offer an alternative explanation for the universality of biochemistry, was recognized as a major part of the evolutionary dynamic."
 
-This careful analysis by Woese shows that Darwin was only standing on the [shoulders](https://en.wikipedia.org/wiki/Standing_on_the_shoulders_of_giants) of his forebears, and that Woese could see further than Darwin, only because he was acting on his own tip, like his periscope. 
+This careful analysis by Woese shows that Darwin was only standing on the [shoulders](https://en.wikipedia.org/wiki/Standing_on_the_shoulders_of_giants) of his forebears, and that Woese could see further than Darwin, because he was acting on his tip, like his periscope. I didn't say standing on Darwin's shoulders, even though he was, because Darwin built a submarine, and in the 20th century, Sanger sequencing is more analogous to a periscope or a spot light designed for Mariana Trench PSI outside the DeepSea Challenger- a fine "optical" instrument, rather than a the practicality of scuba diving miles under the sea.  
 
 10/25/2023
 
