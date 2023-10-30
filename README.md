@@ -1,5 +1,15 @@
 # Biology
 
+10/30/2023
+
+From A New Biology for a New Century (2004, link below)
+
+"One needs look no further than the “doctrine of common descent” to find a candidate; common descent is something that essentially all modern biologists have taken for granted. Where did this doctrine come from? Why, Darwin, of course: didn't he say that all life stems from a single primordial form? Indeed he did. But look at the context and way in which Darwin addresses the issue in Origin of Species. Herein we read (12): “… [we may infer] that all the organic beings which have ever lived on this earth may be descended from some one primordial form. But this inference is chiefly grounded on analogy and it is immaterial whether or not it be accepted. No doubt it is possible, as Mr. G. H. Lewes has urged, that at the first commencement of life many different forms were evolved; but if so we may conclude that only a very few have left modified descendants.”
+
+That doesn't sound like doctrine to me! Darwin was merely speculating about ultimate origins—a great gap in our knowledge and something to be defined and resolved when the time came. For Darwin, common descent was an open question, an invitation to discussion. What elevated common descent to doctrinal status almost certainly was the much later discovery of the universality of biochemistry, which was seemingly impossible to explain otherwise (49). But that was before horizontal gene transfer (HGT), which could offer an alternative explanation for the universality of biochemistry, was recognized as a major part of the evolutionary dynamic."
+
+This careful analysis by Woese shows that Darwin was only standing on the [shoulders](https://en.wikipedia.org/wiki/Standing_on_the_shoulders_of_giants) of his forebears, and that Woese could see further than Darwin, only because he was acting on his own tip, like his periscope. 
+
 10/25/2023
 
 When visiting a mall, those maps that show "You are Here" are quite informative:
