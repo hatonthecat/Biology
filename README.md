@@ -1,5 +1,10 @@
 # Biology
 
+11/3/2023
+
+https://newsteve.substack.com/p/most-ideas-come-from-previous-ideas An article originally written about Steve Jobs but with tangents into Biology's technological advancements as analogized.
+
+
 10/30/2023
 
 From A New Biology for a New Century (2004, link below)
