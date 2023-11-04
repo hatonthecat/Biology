@@ -156,6 +156,8 @@ accomplish the same outcome but with a reduced efficiency and vigor."
 
 from: https://blogs.scientificamerican.com/observations/advice-for-young-scientists-be-a-generalist/
 
+https://distill.pub/2017/research-debt/
+
 While peer-reviewed research papers in academia do now typically include disclaimers on whether any of the researchers claim a conflict of interest, there remains a strong influence of corporate-funded research in higher education, which results in a very uncritical, pro-industry academic track for many scientific degrees. In fact, some degrees appear to be no more than a conveyor belt for positions for dense IP trolls and non-practicing patent entities (NPEs).
 
 If one were to follow the trajectory of the brain drain after the Manhattan Project, one can see that the physicists who did not want to develop weapons of war, left to study Biology in the late 1940s- early 60s (e.g. Pasteur Institute) after Hershey and Chase's experiment on DNA. Other scientists later went on to develop the internet. 
