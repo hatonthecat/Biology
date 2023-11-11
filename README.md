@@ -134,6 +134,9 @@ A Tale of Woese, 1998  https://www.scribd.com/document/16300262/A-Tale-of-Woese
 
 One of the articles that Woese distributed to the 2006 class: https://www.science.org/doi/10.1126/science.1082968 
 
+![image](https://github.com/hatonthecat/Biology/assets/76194453/e8e788da-3e38-4319-97ff-cc785fc606c5)
+
+
 "Woese says part of the skeptical stance to the 1977 report could be traced back to classical microbiology's quiet divorce from the decade's evolutionary thinking. “There was a disconnect between Darwinists, who had taken over evolution, and microbiologists, who had no use for Darwinian natural selection,” he says. To make matters worse, molecular biology's application-oriented approach, he adds, smothered evolutionary considerations of life. “There was a tacit agreement between evolutionists and molecular biologists—en entente curieuse—that neither group would criticize the other.” Add to these reasons microbiologists’ reluctance to abandon the existing classification of life into eukaryotes and prokaryotes, and Woese's phylogenetic classification met with widespread resistance. “By then, the concept of prokaryotes had become firmly entrenched. When the phylogenetic classification was proposed, it was as if a crutch had been taken away,” he recalls."
 
 https://www.pnas.org/doi/10.1073/pnas.1120749109
