@@ -176,7 +176,15 @@ While not as publicized as the Cuban Missile Crisis, the 1958 Taiwan Straits cri
 https://www.nytimes.com/2021/05/22/us/politics/nuclear-war-risk-1958-us-china.html
 
 --
+Other Biology Stories
+--
+
+Article about a Biologist that was originally in my post-scarcity repository, but added here as well: https://www.theguardian.com/world/2019/jun/20/donna-haraway-interview-cyborg-manifesto-post-truth
+
+"In the struggles around climate change, for example, you have to join with your allies to block the cynical, well-funded, exterminationist machine that is rampant on the Earth. I think my colleagues and I are doing that. We have not shut up, or given up on the apparatus that we developed. But one can foreground and background what is most salient depending on the historical conjuncture." 
 
 Michelineous story of the Weird
 ----
 https://www.thefactsite.com/charles-darwin-eating-habits/  
+
+
