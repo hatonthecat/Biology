@@ -1,5 +1,9 @@
 # Biology
 
+1/8/2024
+
+Topological scaling laws and statistical mechanics of evolution (12/20/2023) https://www.youtube.com/watch?v=l11VDjUXEJI 
+
 11/3/2023
 
 https://newsteve.substack.com/p/most-ideas-come-from-previous-ideas An article originally written about Steve Jobs but with tangents into Biology's technological advancements as analogized.
