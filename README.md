@@ -163,7 +163,14 @@ generalists. Those who cross boundaries of disciplines act as butterflies that p
 unintentionally by carrying pollen stuck to their bellies. Occasional random winds can
 accomplish the same outcome but with a reduced efficiency and vigor."
 
+"A classic example is Richard Feynman’s own investigation as an independent member
+of the Rogers Commission in 1986, which revealed the misunderstandings between
+NASA’s engineers and executives regarding the O-rings safety factor in the Space
+Shuttle Challenger disaster, using elementary physical reasoning."
+
 from: https://blogs.scientificamerican.com/observations/advice-for-young-scientists-be-a-generalist/
+
+Be the O-ring investigator you want to see in the world.
 
 https://distill.pub/2017/research-debt/
 
