@@ -1,5 +1,9 @@
 # Biology
 
+2/21/2024
+
+Freeman Dyson and Entropy https://newsteve.substack.com/p/the-sunny-side-of-entropy
+
 1/8/2024
 
 Topological scaling laws and statistical mechanics of evolution (12/20/2023) https://www.youtube.com/watch?v=l11VDjUXEJI 
