@@ -1,5 +1,30 @@
 # Biology
 
+2/25/2024
+---
+
+
+In one of the handful of emails I wrote to Carl Woese in the late 00's, one of his replies started with "Thank you for your synthesis."
+
+It should be observed that in today's hyper-partisan, post-truth world, dialectic is rare, and online interactions are often eristic. It is important not to view everything as critical or negative, and not just a thesis, but a _synthesis_. Revisionism often tries to selectively filter out what is fact.
+
+Today, the word "synthesis" is often correlated with biochemistry or the pharmaceutical industry. The primary definition, historically, viewed synthesis primarily of ideas, theories, and systems, rather than reductionist compounds. Woese railed against fundamental reductionism in "A New Biology for a New Century", 2004.
+
+"Dictionary
+Definitions from Oxford Languages · Learn more
+syn·the·sis
+/ˈsinTHəsəs/
+noun
+
+
+1. the combination of ideas to form a theory or system.
+"the synthesis of intellect and emotion in his work"
+
+2. the production of chemical compounds by reaction from simpler materials.
+"the synthesis of methanol from carbon monoxide and hydrogen"
+
+---
+
 2/21/2024
 
 Freeman Dyson and Entropy https://newsteve.substack.com/p/the-sunny-side-of-entropy
