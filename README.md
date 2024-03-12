@@ -1,5 +1,35 @@
 # Biology
 
+3/11/2024
+
+The reason I decided to write Freeman Dyson in 2008 or 9 was because he mentioned something about the rivalry between academics and the business class in the British class system. I found it interesting at the time, and not entirely unlike the situation in the U.S. However, I think today the reverse is true- it's not just business and academia in rivalries, but politics and business has moved into academia, and academia has moved into business and other sectors (Gale Boetticher in Breaking Bad [quoting](https://www.youtube.com/watch?v=iazX8nj8YlE) Walt Whitman:
+
+"When I heard the learn'd astronomer;
+
+When the proofs, the figures, were ranged in columns before me;
+
+When I was shown the charts and the diagrams, to add, divide, and
+measure them;
+
+When I, sitting, heard the astronomer, where he lectured with much
+applause in the lecture-room,
+
+How soon, unaccountable, I became tired and sick;
+
+Till rising and gliding out, I wander'd off by myself,
+
+In the mystical moist night-air, and from time to time,
+
+Look'd up in perfect silence at the stars.")
+
+
+
+"Freeman Dyson (1923-2020), who was born in England, moved to Cornell University after graduating from Cambridge University with a BA in Mathematics. He subsequently became a professor and worked on nuclear reactors, solid state physics, ferromagnetism, astrophysics and biology. He published several books and, among other honours, was awarded the Heineman Prize and the Royal Society's Hughes Medal. [Listener: Sam Schweber; date recorded: 1998]
+
+TRANSCRIPT: I was really very lucky. Of course I hated the class, well, the snobbery of the place. It was a very, very intensely intellectual place and there was in an intense intellectual snobbery there and a social snobbery as well. I mean we were all essentially middle class kids and we looked down not only at the working class, we looked down at the business class as well. **In England the antagonism has always been very strong between the intellectual middle class and the business middle class.** That's one of the causes of social problems in England. It's why Margaret Thatcher was always so down on the universities, because she came from the business middle class. But in any case, so we were in this very narrow intellectually snobbish surroundings, and surrounded with high medieval walls, literally, and so I always felt an intense hatred for the system, although I loved a lot of the people and I loved the life in the college, but nevertheless I had a very bad conscience about it and wanted to tear it down and let in some daylight from outside. So I always had this very ambivalent feeling about it. I hated a great deal of this sort of "old school tie" atmosphere that surrounded it, and I found only about fifty years later I've started to lose this hatred for it because, I mean, I've just become mellowed with time." 
+https://www.youtube.com/watch?v=DzC1IRYN_Ps
+(emphasis added)
+
 2/25/2024
 ---
 
