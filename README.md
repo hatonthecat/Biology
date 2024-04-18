@@ -57,8 +57,10 @@ noun
 2. the production of chemical compounds by reaction from simpler materials.
 "the synthesis of methanol from carbon monoxide and hydrogen"
 
-* Another one of his replies, I recall he employed the use of anastrophe:
-* ![image](https://github.com/hatonthecat/Biology/assets/76194453/d107bef2-69b2-40e9-bcad-b312da9c0f4b)
+
+*In another one of his replies, I recall he employed the use of anastrophe:
+
+ ![image](https://github.com/hatonthecat/Biology/assets/76194453/d107bef2-69b2-40e9-bcad-b312da9c0f4b)
 
   I do not recall if he was consciously channelling an inner Yoda, but there was something funny about the way he wrote it (and his Yoda-like sagacity)
 
