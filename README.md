@@ -38,7 +38,7 @@ Another transcript can be found here: https://www.youtube.com/watch?v=DzC1IRYN_P
 ---
 
 
-In one of the handful of emails I wrote to Carl Woese in the late 00's, one of his replies started with "Thank you for your synthesis."
+In one of the handful of emails I wrote to Carl Woese in the late 00's, one* of his replies started with "Thank you for your synthesis."
 
 It should be observed that in today's hyper-partisan, post-truth world, dialectic is rare, and online interactions are often eristic. It is important not to view everything as critical or negative, and not just a thesis, but a _synthesis_. Revisionism often tries to selectively filter out what is fact.
 
@@ -56,6 +56,11 @@ noun
 
 2. the production of chemical compounds by reaction from simpler materials.
 "the synthesis of methanol from carbon monoxide and hydrogen"
+
+* Another one of his replies, I recall he employed the use of anastrophe:
+* ![image](https://github.com/hatonthecat/Biology/assets/76194453/d107bef2-69b2-40e9-bcad-b312da9c0f4b)
+
+  I do not recall if he was consciously channelling an inner Yoda, but there was something funny about the way he wrote it (and his Yoda-like sagacity)
 
 ---
 
