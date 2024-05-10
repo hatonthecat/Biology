@@ -103,7 +103,7 @@ When visiting a mall, those maps that show "You are Here" are quite informative:
 
 Note: the estimates of 2.4 Billion years ago are approximate. In other estimates, 3 billion is quoted and 1 billion for a single phase (see May 2022 Youtube link below)
 
-https://journals.asm.org/doi/10.1128/mmbr.68.2.173-186.2004 "A New Biology for a New Century"
+https://pubmed.ncbi.nlm.nih.gov/15187180/ (2nd link doesn't appear to be working anymore) https://journals.asm.org/doi/10.1128/mmbr.68.2.173-186.2004 "A New Biology for a New Century"
 
 "If they are not machines, then what are organisms? A metaphor far more to my liking is this. Imagine a child playing in a woodland stream, poking a stick into an eddy in the flowing current, thereby disrupting it. But the eddy quickly reforms. The child disperses it again. Again it reforms, and the fascinating game goes on. There you have it! Organisms are resilient patterns in a turbulent flow—patterns in an energy flow. A simple flow metaphor, of course, fails to capture much of what the organism is. None of our representations of organism capture it in its entirety. But the flow metaphor does begin to show us the organism's (and biology's) essence. And it is becoming increasingly clear that to understand living systems in any deep sense, we must come to see them not materialistically, as machines, but as (stable) complex, dynamic organization."
 
