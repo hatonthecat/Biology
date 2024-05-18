@@ -243,6 +243,9 @@ Shuttle Challenger disaster, using elementary physical reasoning."
 
 from: https://blogs.scientificamerican.com/observations/advice-for-young-scientists-be-a-generalist/
 
+And the decline of SciAm: https://www.city-journal.org/article/unscientific-american
+
+
 Be the O-ring investigator you want to see in the world.
 
 https://distill.pub/2017/research-debt/
@@ -270,5 +273,4 @@ Article about a Biologist that was originally in my post-scarcity repository, bu
 Michelineous story of the Weird
 ----
 https://www.thefactsite.com/charles-darwin-eating-habits/  
-
 
