@@ -1,5 +1,9 @@
 # Biology
 
+7/25/2024
+
+https://www.cnn.com/2024/07/22/science/dark-oxygen-discovery-deep-sea-mining/index.html
+
 3/11/2024
 
 The reason I decided to [write](https://github.com/hatonthecat/Biology/blob/main/I%20wrote%20to%20Freeman%20Dyson%2015%20years%20ago%3B%20he%20responded%20nicely.pdf) Freeman Dyson in 2008 or 9 was because he mentioned something about the rivalry between academics and the business class in the British class system. I found it interesting at the time, and not entirely unlike the situation in the U.S. However, I think today the reverse is true- it's not just business and academia in rivalries, but politics and business has moved into academia, and academia has moved into business and other sectors (Gale Boetticher in Breaking Bad [quoting](https://www.youtube.com/watch?v=iazX8nj8YlE) Walt Whitman:
