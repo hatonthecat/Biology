@@ -1,5 +1,9 @@
 # Biology
 
+8/2/2024
+
+https://www.washingtonpost.com/obituaries/2024/07/31/robin-warren-nobel-ulcers-dies/
+
 7/25/2024
 
 https://www.cnn.com/2024/07/22/science/dark-oxygen-discovery-deep-sea-mining/index.html
