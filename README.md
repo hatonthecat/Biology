@@ -1,10 +1,28 @@
 # Biology
 
+9/24/2024
+
+Trivia revealed: 2004 
+
+https://www.ncbi.nlm.nih.gov/pmc/articles/PMC419918/pdf/0007-04.pdf p.2/14 (173):
+
+"The proof of this, if such were needed, was that the more “mature” sciences, first chemistry and then physics, began to treat biology as worthy of
+interest in its own right—as a source of interesting problems,not just interesting products (41)."
+
+![image](https://github.com/user-attachments/assets/9eb5295b-7dc4-4211-a9d8-ca8be936093d)
+
+
+MICROBIOLOGY AND MOLECULAR BIOLOGY REVIEWS, June 2004, p. 173–186 Vol. 68, No. 2
+1092-2172/04/$08.000 DOI: 10.1128/MMBR.68.2.173–186.2004
+Copyright © 2004, American Society for Microbiology. All Rights Reserved.
+"A New Biology for a New Century"
+
 8/21/2024
 
 ![image](https://github.com/user-attachments/assets/5d9b1341-b3dc-476a-aed4-08183305985e)
 
 [(Rushmore -1998) ](https://www.youtube.com/watch?v=e4qQ66LgM1c) 
+
 
 8/2/2024
 
