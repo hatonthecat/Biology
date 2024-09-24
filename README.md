@@ -12,6 +12,9 @@ interest in its own right—as a source of interesting problems,not just interes
 ![image](https://github.com/user-attachments/assets/9eb5295b-7dc4-4211-a9d8-ca8be936093d)
 
 
+41. Schro¨dinger, E. 1944. What is life. Cambridge University Press, Cambridge,
+United Kingdom
+
 MICROBIOLOGY AND MOLECULAR BIOLOGY REVIEWS, June 2004, p. 173–186 Vol. 68, No. 2
 1092-2172/04/$08.000 DOI: 10.1128/MMBR.68.2.173–186.2004
 Copyright © 2004, American Society for Microbiology. All Rights Reserved.
