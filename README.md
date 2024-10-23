@@ -1,5 +1,10 @@
 # Biology
 
+10/22/2024
+--
+
+https://www.asimov.press/p/gas-vesicles (_G. echinulata_) 
+
 9/24/2024
 
 Trivia revealed: 2004 
