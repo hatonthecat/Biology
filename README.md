@@ -1,4 +1,11 @@
-# Biology
+# Biolog
+y
+1/2/2025
+--
+https://korthof.blogspot.com/2022/02/how-has-theory-of-evolution-changed.html
+
+https://wasdarwinwrong.com/korthof88.htm
+
 
 10/22/2024
 --
