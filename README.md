@@ -1,5 +1,11 @@
 # Biology
 
+1/13/2025
+--
+
+"So at the Molecular Biology Institute, it’s actually called Cie en stuitz ??), a building that has, it had then four floors, it is a big steel outside, and in principle there are a lot of things jutting out from the windows. So I of course, from a certain point on had to teach in French. And I remember teaching a graduate class where I told them as a prank that Alfred on certain mornings, to keep in shape, would actually climb up the outside of the building get to his fourth floor office. And they believed me. So they would hang out. They would come early and hang out, they would hang out in the bushes to see him actually climb up the building. And, when they finally found out it was a prank, you know the Swiss don’t quite have the New York sense of humor that I have, so a couple of those students really didn’t speak to me for a long time. In fact we just had, a year and a half ago, the 40th reunion of the Molecular Biology department and this was like, maybe, 30 years after the incident. And I’m telling you, one of those students was still there, and he was still cool to me. I remember that."
+from Dr. Jeffrey Miller, 3/8/2006 https://library.cshl.edu/oralhistory/interview/scientific-experience/molecular-biologists/alfred-tissieres/
+
 1/2/2025
 --
 https://korthof.blogspot.com/2022/02/how-has-theory-of-evolution-changed.html
