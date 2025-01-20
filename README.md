@@ -1,5 +1,7 @@
 # Biology
 
+https://www.theguardian.com/science/2025/jan/19/luca-is-the-progenitor-of-all-life-on-earth-but-its-genesis-has-implications-far-beyond-our-planet
+
 1/13/2025
 --
 
