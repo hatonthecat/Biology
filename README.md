@@ -3,7 +3,7 @@
 3-4-2025
 --
 
-https://sam.gov/opp/426e5868fcf74dd4ada3768b00b09234/view permeable biological structures tethered to the moon that resist hurricanes, cyclones, and wind?
+https://sam.gov/opp/426e5868fcf74dd4ada3768b00b09234/view permeable biological structures tethered to a satellite that resist hurricanes, cyclones, and wind?
 
 2-20-25
 --
