@@ -1,5 +1,12 @@
 # Biology
 
+3-11-2024
+--
+https://www.nytimes.com/2025/03/10/technology/ai-science-lab-lila.html
+
+How bereft of ideas do scientists have to be to think that AI is going to [devise their hypotheses](https://imgflip.com/i/9my66o) for them? Science is like an art. You either have it, or you don't. Acquiring an idea only makes it derivative, rather than original. 
+
+
 3-4-2025
 --
 
