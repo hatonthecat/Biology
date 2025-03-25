@@ -1,6 +1,15 @@
 # Biology
 
-3-11-2024
+3-25-2025
+--
+https://www.windowscentral.com/software-apps/bill-gates-3-professions-will-remain-indispensable-for-now
+"Bill Gates claims three professions will remain indispensable (for now) but "AI will replace humans for most things" eventually
+
+Microsoft's co-founder believes only coders, energy specialists, and biologists will survive AI's hostile takeover."
+
+Thanks, Bill! I chose the right undergraduate major 22 yrs ago ;)
+
+3-11-2025
 --
 https://www.nytimes.com/2025/03/10/technology/ai-science-lab-lila.html
 
