@@ -1,5 +1,9 @@
 # Biology
 
+3-26-2025
+--
+https://phys.org/news/2025-03-diagnostic-technology-accuracy-pathogen-identification.html
+
 3-25-2025
 --
 https://www.windowscentral.com/software-apps/bill-gates-3-professions-will-remain-indispensable-for-now
