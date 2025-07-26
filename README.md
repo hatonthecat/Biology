@@ -1,5 +1,16 @@
 # Biology
 
+7-25-2025
+--
+[microkernels](https://github.com/EI2030/FemtoTX/commit/9def556d4c0796e013fc1dda0d02e7acd617d0db):
+----
+"NOMMU systems have been analogized to bacteria, fungi, and insects: there are
+more bacterial cells on the planet than mammal cells by a VERY LARGER MARGIN.
+But they're mostly invisible to the elephants and dinosaurs of the world. NOMMU
+systems are EVERYWHERE. Mostly Linux is too big to play in that space, but even
+a small slice of it is more deployments than everything else Linux does combined
+(yes including phones)." http://lists.landley.net/pipermail/toybox-landley.net/2024-January/029957.html
+
 5-23-2025
 --
 Scanning Electron Microscope https://www.youtube.com/watch?v=Kqx9blbYDB0 "I Saved an Electron Microscope from the Trash"
