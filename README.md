@@ -1,6 +1,6 @@
 # Biology
 
-11-7-2025 
+11-7-2025
 --
 
 https://www.npr.org/2025/11/07/nx-s1-5144654/james-watson-dna-double-helix-dies
