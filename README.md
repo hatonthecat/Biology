@@ -11,6 +11,13 @@ Note: Github's copilot automatically summarized the previous commit update. (and
 
 In the past, when a commit update was made, the commit description box was empty by default. perhaps there is a way to turn this off or might migrate to another git service like Codeberg. The last thing I want is thinking I approved an inaccurate or misleading commit summary when I used to leave it blank most of the time unless there was something important that needed to be included. 
 
+https://github.blog/changelog/2025-10-15-copilot-generated-commit-messages-on-github-com-are-generally-available/ 
+
+"When this feature is enabled, Copilot automatically suggests a concise summary of changes made through the file editor on github.com. File deletions will continue to use the existing “Delete FILENAME” default, and adding a file without any contents will continue to use the existing “Add FILENAME” default."
+
+
+
+
 7-25-2025
 --
 [microkernels](https://github.com/EI2030/FemtoTX/commit/9def556d4c0796e013fc1dda0d02e7acd617d0db):
