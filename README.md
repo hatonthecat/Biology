@@ -7,9 +7,9 @@ https://www.npr.org/2025/11/07/nx-s1-5144654/james-watson-dna-double-helix-dies
 
 "During a speech when he was in Stockholm to receive the Nobel Prize in 1962, Watson said that to succeed in science, researchers had to believe strongly in their ideas, even to the point where "they may seem tiresome and bothersome and even arrogant to our colleagues. I knew many people, at least when I was young, who thought I was quite unbearable."
 
-Note: Github's copilot automatically summarized the previous commit update. this update is a quote from an NPR article quoting Watson from 1962, not a self-described tribute. Commit updates as of October 2025 or so can no longer be considered authoted by the original github account holder. 
+Note: Github's copilot automatically summarized the previous commit update. (and i didn't notice the autofilled description before approving the box). this update is a quote from an NPR article quoting Watson from 1962, not a self-described tribute. Commit updates as of October 2025 or so can no longer be considered authored by the original github account holder because they might be used to pressing "Commit" in quick succession after an update ("Commit Changes"). 
 
-In the past, when a commit update was made, the commit description box was empty by default. perhaps there is a way to turn this off or might migrate to another git service like Codebwrg. The last thing I want is thinking I approved an inaccurate or misleading commit summary when I used to leave it blank most of the time unless there was something important that needed to be included. 
+In the past, when a commit update was made, the commit description box was empty by default. perhaps there is a way to turn this off or might migrate to another git service like Codeberg. The last thing I want is thinking I approved an inaccurate or misleading commit summary when I used to leave it blank most of the time unless there was something important that needed to be included. 
 
 7-25-2025
 --
