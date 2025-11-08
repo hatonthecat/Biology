@@ -1,5 +1,12 @@
 # Biology
 
+11-7-2025
+--
+
+https://www.npr.org/2025/11/07/nx-s1-5144654/james-watson-dna-double-helix-dies
+
+"During a speech when he was in Stockholm to receive the Nobel Prize in 1962, Watson said that to succeed in science, researchers had to believe strongly in their ideas, even to the point where "they may seem tiresome and bothersome and even arrogant to our colleagues. I knew many people, at least when I was young, who thought I was quite unbearable."
+
 7-25-2025
 --
 [microkernels](https://github.com/EI2030/FemtoTX/commit/9def556d4c0796e013fc1dda0d02e7acd617d0db):
