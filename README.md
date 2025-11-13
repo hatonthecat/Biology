@@ -1,5 +1,10 @@
 # Biology
 
+11-13-2025
+--
+
+https://writings.stephenwolfram.com/2025/11/whats-special-about-life-bulk-orchestration-and-the-rulial-ensemble-in-biology-and-beyond/
+
 11-7-2025 
 --
 
