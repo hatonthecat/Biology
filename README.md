@@ -1,5 +1,13 @@
 # Biology
 
+12-28-2025
+
+If I didn't know what I was reading, I might have mistaken this for DNA transposons
+
+<img width="1731" height="921" alt="image" src="https://github.com/user-attachments/assets/763c8466-1b6d-4776-aede-77868771d4fa" />
+
+https://llvm.org/devmtg/2023-05/slides/TechnicalTalks-May10/10-Venkat-ML-LLVM-Tools.pdf (slide 18/29)
+
 12-10-2025
 --
 
