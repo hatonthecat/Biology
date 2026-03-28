@@ -1,5 +1,15 @@
 # Biology
 
+3-28-2026
+--
+
+https://www.nature.com/articles/s41550-026-02791-z.pdf "A complete set of canonical nucleobases in the carbonaceous asteroid (162173) Ryugu"
+
+Commment by a LinkedIn poster by the name of Moosa: "these molecules are not contaminations and NASA made sure of that. there had been another asteroid containing DNA molecules (deep inside it, not on surface) found in early 2000s but then scientists couldn't rule out the possibility of contaminations from impact. this project was focused on Asteroid Bennu, and a craft was used to directly extract samples from asteroid Bennu in space while orbiting, lock them up in sealed container and send them back to earth. so, it IS BREAKING NEWS. another proof from the fact that the asteroid contained left-handed DNA molecules and ALL life on earth is made of right-handed molecules (mirror images in composition). the asteroid is 7 billion years old and had brine traces on it suggesting that it came from fragments of an old watery planet outside of solar system. so, it's basically CRAZY"
+
+https://www.linkedin.com/posts/muhammad-shaban-afridi-186182238_breaking-an-asteroid-was-found-to-have-share-7441712020959268865-N3iK?utm_source=social_share_send&utm_medium=member_desktop_web&rcm=ACoAABX8q28BPYC1AsJD-snQTaCrj_2Xl01KWz0
+
+
 12-28-2025
 
 If I didn't know what I was reading, I might have mistaken this for DNA transposons
