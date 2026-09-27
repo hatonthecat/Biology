@@ -4,6 +4,7 @@
 --
 
 https://www.nytimes.com/2026/09/26/science/motel-science-discovery.html
+
 https://en.wikipedia.org/wiki/Paulinella
 
 9-7-2026 
