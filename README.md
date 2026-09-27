@@ -1,6 +1,15 @@
 # Biology
 
-9-7-2026 Strangely Encarta-like: https://ptree.org/#GBIF/Nutrition/44&view=tree&fossils=show&tab=wiki
+9-27-2026
+--
+
+https://www.nytimes.com/2026/09/26/science/motel-science-discovery.html
+https://en.wikipedia.org/wiki/Paulinella
+
+9-7-2026 
+--
+
+Strangely Encarta-like: https://ptree.org/#GBIF/Nutrition/44&view=tree&fossils=show&tab=wiki
 
 
 
