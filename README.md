@@ -7,6 +7,10 @@ https://www.nytimes.com/2026/09/26/science/motel-science-discovery.html
 
 https://en.wikipedia.org/wiki/Paulinella
 
+https://onlinelibrary.wiley.com/doi/epdf/10.1111/jpy.70230
+
+https://timesofindia.indiatimes.com/science/nature/a-scientist-turned-an-80-motel-room-into-a-makeshift-lab-then-she-discovered-two-new-species-of-microscopic-amoebae/articleshow/134518611.cms
+
 9-7-2026 
 --
 
