@@ -1,5 +1,10 @@
 # Biology
 
+11-3-26
+--
+
+https://www.sciencedaily.com/releases/2026/11/261102075903.html "All 5 genetic “letters” of DNA and RNA discovered in a 4.5-billion-year-old asteroid"
+
 9-27-2026
 --
 
