@@ -1,5 +1,14 @@
 # Biology
 
+11-11-2026
+--
+from Cyberselfish (2000), by Paulina Borsook, p.220:
+![IMG_20261111_092844528](https://github.com/user-attachments/assets/3ef88db6-1482-4724-8e67-16d5098e5c3f)
+
+p.232:
+
+<img width="3072" height="4080" alt="IMG_20261111_092911562~2" src="https://github.com/user-attachments/assets/a5c3f4d6-8a70-4c7b-b622-0b19e63e3ac4" /> (also similar to 08/2024-10/22/2024 posts here)
+
 11-3-26
 --
 
